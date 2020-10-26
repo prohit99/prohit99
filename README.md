@@ -1,14 +1,14 @@
 # Systems Programmer, learner and builder ...
 
-Hi, I'm Rohitash - a software engineer at Dell-EMC working on storage software products. I'm a senior programmer with multiple year's experience in software design, development, porting, debugging and optimizing performance of large-scale complicated enterprise products spanning networking/storage/systems domains.
+Hi, I'm Rohitash - a software engineer with strong expertise in Linux/Unix systems working on database and storage backends. I'm a senior programmer with multiple year's experience in software design, development, porting, debugging and optimizing performance of large-scale complicated enterprise products spanning networking/storage/systems domains.
 
 🔭 I work on ..
 
-C , C++, Python
+C , C++, Python, Linux, Unix, Systems, Storage, Databases
 
 🌱 I’m currently learning ...
 
-Golang, Kubernates
+Golang, Dockers, Kubernates
 
 
 
